@@ -1,25 +1,11 @@
 # Startup-Campus-Assignment-1
 Assignment 1: Foundation for Artificial Intelligence Artificial Intelligence Track • Startup Campus, Indonesia
 
-##Deskripsi Tugas
+## Deskripsi Tugas
 
-####B.1 Tugas Individu (Soal Nomor 1)
+### B.2 Tugas Kelompok (Soal Nomor 2 dan Nomor 3)
 
-SOAL NOMOR 1
-
-1. Please mention at least three recent AI innovations/implementations. Describe also the added
-values or benefits from these AI innovations/implementations.
-2. Which AI innovation inspires you the most? Why?
-3. Based on your prediction, how is the future of AI? What will be the biggest AI innovation 20
-years from now?
-The report/answer can be written in English or Bahasa Indonesia.
-Minimal page: 1 full page.
-Maximal page: 3 pages.
-MS Word, A4, Times New Romans 12, space 1,5
-
-###B.2 Tugas Kelompok (Soal Nomor 2 dan Nomor 3)
-
-####SOAL NOMOR 2
+#### SOAL NOMOR 2
 
 Background
 
@@ -103,7 +89,7 @@ Output
 *even the total is correct, but it passes the largest denomination of money on top of Rp 10,000.
 You need to prioritize Rp 20,000 first.
 
-####SOAL NOMOR 3
+#### SOAL NOMOR 3
 
 Background
 HR professionals generally lag behind with respect to analytics and data visualization competency. Thus,
